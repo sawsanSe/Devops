@@ -8,8 +8,7 @@ public class Calcul {
 			System.out.println("In getAllPrducts() : ");
 			System.out.println("Je vais lancer la divsion.");
 			int i = 1 / 2;
-			  
-			System.out.println("Je viens de finir la divsion. " + i);
+			System.out.println("Je viens de finir la méthode de divsion. " + i);
 			System.out.println("Je viens de finir l'opération X.");
 			System.out.println("Out getAllPrducts() without errors.");
 		} catch (Exception e) {
