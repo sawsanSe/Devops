@@ -2,7 +2,7 @@ package tn.esprit;
 
 public class Calcul {
 	// -----------------------------------------------------------------
-
+//C'est la classe clacul
 	public void getAllPrducts() {
 		try {
 			System.out.println("In getAllPrducts() : ");
